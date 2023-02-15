@@ -5,7 +5,3 @@
 #    username: postgres
 #    url: jdbc:postgresql://localhost:5432/student
 #    password: admin
-
-spring:
-  profiles:
-    active: dev
